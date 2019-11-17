@@ -1,5 +1,3 @@
-# rrts
-
 # Section 17 React and Redux with Typescript
 
 ## 254 React and Redux Overview
